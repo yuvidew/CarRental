@@ -173,7 +173,7 @@ header{
 
 #home .home_contener .heading{
     position: absolute;
-    top: 30%;
+    top: 20%;
     left: 8%;
 }
 
@@ -203,9 +203,9 @@ header{
 
 .home_contener .heading form{
     margin-top: 3rem;
-    width: 90%;
+    width: 60%;
     display: flex;
-    /* justify-content: space-between; */
+    align-items: center;
     gap: 1rem ;
     flex-wrap:wrap ;
     background-color: #fff;
@@ -234,7 +234,7 @@ header{
 .heading form .box1 button{
     background-color: orangered;
     padding: 1rem .5rem;
-    margin-top: .5rem;
+    margin-top: 2rem;
     border-radius: .5rem;
     font-size: 1.5rem;
     color: #fff;
