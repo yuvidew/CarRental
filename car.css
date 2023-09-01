@@ -698,12 +698,16 @@ background-color: #483d8b;
 
    #home{
     background-position: left;
-    height: 100vh;
+    height: 104vh;
    }
 
    #home .home_contener .heading{
     top: 15%;
     left: 8%;
+}
+
+.home_contener .heading form{
+  width: 90%;
 }
 
 /* ##############################ride#########################################3 */
